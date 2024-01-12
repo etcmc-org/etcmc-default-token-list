@@ -1,1 +1,1 @@
-# etcmc-default-token-list
+# ETCMC Default Token List
