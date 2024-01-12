@@ -1,0 +1,33 @@
+{
+  "name": "ETCMC Default List",
+  "timestamp": "2024-01-12T23:57:10.982Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 61,
+      "name": "WETC",
+      "address": "0x82a618305706b14e7bcf2592d4b9324a366b6dad",
+      "symbol": "WETC",
+      "decimals": 18,
+      "logoURI": "https://hebeswap.com/assets/0x82a618305706b14e7bcf2592d4b9324a366b6dad/logo.png"
+    },
+    {
+      "chainId": 61,
+      "name": "ETCPOW",
+      "address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+      "symbol": "ETCPOW",
+      "decimals": 18,
+      "logoURI": "https://hebeswap.com/assets/0x6c3b413c461c42a88160ed1b1b31d6f7b02a1c83/logo.png"
+    }
+  ]
+}
